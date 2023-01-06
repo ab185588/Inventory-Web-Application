@@ -1,0 +1,131 @@
+* {
+
+  box-sizing: border-box;
+  
+  }
+  
+  body{
+  
+      margin:0;
+  
+  }
+  
+  .bt1{
+  
+      height: 20px;
+  
+      width: 100px;
+  
+     size: 40px;
+  
+  }
+  
+  .bt2
+  
+  {
+  
+  
+      height: 20px;
+  
+      width: 100px;
+  
+     size: 40px;
+  
+  }
+  
+  .Main{
+  
+      background-color:rgb(47, 45, 45) ;
+  
+      align-items: center;
+  
+      background-color: rgb(47, 45, 45);
+  
+      color: rgba(240, 255, 255, 0.955);
+  
+      display: "flex";
+  
+      justify-content: space-between;
+  
+      align-items: center;
+  
+     
+  
+      gap:4rem;
+  
+      padding: 2rem;
+  
+  }
+  
+  .text{
+  
+      color: azure;
+  
+  }
+  
+  .nav{
+  
+      background-color: rgba(44, 66, 109, 0.462);
+  
+      color: rgba(240, 255, 255, 0.955);
+  
+      display: "flex";
+  
+      justify-content: space-between;
+  
+      align-items: center;
+  
+      gap:4rem;
+  
+      padding: 2rem;
+  
+  }
+  
+  .RNav{
+  
+      background-color: rgba(102, 116, 55, 0.304);
+  
+      color: rgba(240, 255, 255, 0.955);
+  
+      display: "flex";
+  
+      justify-content: space-between;
+  
+      align-items: center;
+  
+      gap:4rem;
+  
+      padding: 2rem;
+  
+  
+  
+  }
+  
+  .Title{
+  
+      font-size: 2rem;
+  
+      align-items: center;
+  
+  }
+  
+  .nav ul{
+  
+      padding: 0;
+  
+      margin: 0;
+  
+      list-style: none;
+  
+      display: flex;
+  
+      gap:1rem;
+  
+  }
+  
+  .nav a{
+  
+      color:inherit;
+      text-decoration: none;
+  
+  }
